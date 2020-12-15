@@ -1,0 +1,1 @@
+docker build -t contoh-client-python:latest .

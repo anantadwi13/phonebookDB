@@ -1,0 +1,1 @@
+docker run -it --rm -e BASEURL="${BASEURL}" contoh-client-python
